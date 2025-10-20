@@ -9,7 +9,7 @@ return [
         'pass' => '',
         'options' => '',                  
     ],
-    'storage.file' => __DIR__ . '/storage/tasks.json',  
+    'storage' => __DIR__ . '/storage/tasks.json',  
     'repository' => 'mysql'
 ];
 ?>
