@@ -10,6 +10,6 @@ return [
         'options' => '',                  
     ],
     'storage' => __DIR__ . '/storage/tasks.json',  
-    'repository' => 'mysql'
+    'repository' => 'file'
 ];
 ?>
